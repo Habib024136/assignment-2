@@ -160,11 +160,8 @@ background-clip: text;
      height: auto;
     }
     .left-site{
-       background-image: url("/images/Group\ 14.png");
-       background-size: ;
-       width: 100%;
-       height: auto;
-
+       background-image: url("./images/Group\ 14.png");
+       background-position-y: ;
     }
     .left-site >.title-style{
         width: 60%;
